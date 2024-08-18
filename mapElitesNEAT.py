@@ -24,9 +24,6 @@ Dependencies:
 
 Usage:
 python script_name.py <map_size> <run_num> [--checkpoint CHECKPOINT] [--archive_load_file ARCHIVE_LOAD_FILE] [--start_index START_INDEX]
-
-Author: [Your Name]
-Date: [Current Date]
 """
 
 import sys
