@@ -22,7 +22,7 @@ This project implements a NEAT (NeuroEvolution of Augmenting Topologies) algorit
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/hexapod-gait-evolution.git
+   git clone git@github.com:AlePouroullis/hexapod_2024.git (if using ssh)
    cd hexapod-gait-evolution
    ```
 
