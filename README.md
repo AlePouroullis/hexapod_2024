@@ -121,8 +121,5 @@ If you encounter any issues:
 1. Ensure your virtual environment is activated.
 2. Verify that all required packages are installed correctly.
 3. Check that file paths in the scripts are correct for your system.
-4. If using GPUs, ensure CUDA is properly set up (if applicable).
 
 For more detailed error messages, you can modify the scripts to include additional logging.
-
-If problems persist, please open an issue on the GitHub repository with a detailed description of the error and your system configuration.
